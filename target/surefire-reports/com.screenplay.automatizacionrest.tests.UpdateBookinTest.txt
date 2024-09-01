@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.screenplay.automatizacionrest.tests.UpdateBookinTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 9.133 s <<< FAILURE! - in com.screenplay.automatizacionrest.tests.UpdateBookinTest
+com.screenplay.automatizacionrest.tests.UpdateBookinTest.should_be_able_to_update_booking_1  Time elapsed: 6.689 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <403>.
+
+	at com.screenplay.automatizacionrest.tests.UpdateBookinTest.lambda$should_be_able_to_update_booking_1$0(UpdateBookinTest.java:50)
+	at com.screenplay.automatizacionrest.tests.UpdateBookinTest.should_be_able_to_update_booking_1(UpdateBookinTest.java:48)
+
+com.screenplay.automatizacionrest.tests.UpdateBookinTest.should_be_able_to_update_booking_2  Time elapsed: 1.078 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <403>.
+
+	at com.screenplay.automatizacionrest.tests.UpdateBookinTest.lambda$should_be_able_to_update_booking_2$1(UpdateBookinTest.java:74)
+	at com.screenplay.automatizacionrest.tests.UpdateBookinTest.should_be_able_to_update_booking_2(UpdateBookinTest.java:72)
+

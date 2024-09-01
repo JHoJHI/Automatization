@@ -1,0 +1,10 @@
+com\screenplay\automatizacionrest\AutomatizacionRest.class
+com\screenplay\automatizacionrest\tests\CreateBookingTest.class
+com\screenplay\automatizacionrest\tasks\CreateBooking.class
+com\screenplay\automatizacionrest\tests\UpdateBookinTest.class
+com\screenplay\automatizacionrest\tests\GetBookingTest.class
+com\screenplay\automatizacionrest\actors\ApiUserRest.class
+com\screenplay\automatizacionrest\tasks\UpdateBooking.class
+com\screenplay\automatizacionrest\tests\CreateTokenTest.class
+com\screenplay\automatizacionrest\tasks\GenerateToken.class
+com\screenplay\automatizacionrest\tasks\GetBooking.class

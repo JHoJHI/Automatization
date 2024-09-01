@@ -1,0 +1,3 @@
+com\screenplay\automatizacionrest\actors\ApiUserRest.class
+com\screenplay\automatizacionrest\tasks\GenerateToken.class
+com\screenplay\automatizacionrest\AutomatizacionRest.class

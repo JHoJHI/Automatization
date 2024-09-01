@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.screenplay.automatizacionrest.tests.GetBookingTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 7.742 s <<< FAILURE! - in com.screenplay.automatizacionrest.tests.GetBookingTest
+com.screenplay.automatizacionrest.tests.GetBookingTest.should_retrieve_booking_1_successfully  Time elapsed: 5.824 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <404>.
+
+	at com.screenplay.automatizacionrest.tests.GetBookingTest.lambda$should_retrieve_booking_1_successfully$0(GetBookingTest.java:42)
+	at com.screenplay.automatizacionrest.tests.GetBookingTest.should_retrieve_booking_1_successfully(GetBookingTest.java:40)
+
+com.screenplay.automatizacionrest.tests.GetBookingTest.should_retrieve_booking_2_successfully  Time elapsed: 0.593 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <404>.
+
+	at com.screenplay.automatizacionrest.tests.GetBookingTest.lambda$should_retrieve_booking_2_successfully$1(GetBookingTest.java:58)
+	at com.screenplay.automatizacionrest.tests.GetBookingTest.should_retrieve_booking_2_successfully(GetBookingTest.java:56)
+
