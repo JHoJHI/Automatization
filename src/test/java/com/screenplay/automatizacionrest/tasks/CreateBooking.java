@@ -9,10 +9,6 @@ import net.serenitybdd.screenplay.Task;
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 import net.serenitybdd.screenplay.rest.interactions.Post;
 
-/**
- *
- * @author crist
- */
 public class CreateBooking implements Task {
 
     private final String firstname;

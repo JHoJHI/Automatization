@@ -8,10 +8,6 @@ import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.rest.interactions.Put;
 
-/**
- *
- * @author crist
- */
 public class UpdateBooking implements Task {
 
     private final int bookingId;
